@@ -1458,6 +1458,9 @@ fieldset[disabled] .navbar .navbar-nav > a.btn.active {
 .navbar .navbar-nav > a.btn.btn-icon.btn-sm i.now-ui-icons {
   font-size: 0.6875rem;
 }
+.bi-envelope-fill {
+  font-size: 1.5rem !important;
+}
 .btn.btn-icon.btn-lg,
 .navbar .navbar-nav > a.btn.btn-icon.btn-lg {
   height: 3.6rem;

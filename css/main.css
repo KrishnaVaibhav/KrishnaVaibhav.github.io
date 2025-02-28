@@ -3225,7 +3225,7 @@ body {
   color: #00669c;
 }
 .b-f:hover {
-  background-color: #4267b2;
+  background-color: #ff2e00;
 }
 .b-li:hover {
   background-color: #0077b5;
@@ -7089,7 +7089,7 @@ Created using IcoMoon - icomoon.io
 /* Footer */
 /* Social button style */
 .cc-facebook:hover i {
-  color: #3b5998;
+  color: #ff2e00;
 }
 
 .cc-twitter:hover i {
